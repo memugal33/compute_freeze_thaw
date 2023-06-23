@@ -1,4 +1,4 @@
-# compute_freeze_thaw cycle 
+# Compute number of freeze thaw cycle
 
 This code classify the soil state for the WEPP output based on the daily frozen water value for the three different precipitation zone of the study.
 
